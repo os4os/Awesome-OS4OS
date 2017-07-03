@@ -10,7 +10,7 @@ Our goal is to create a useful list of open source projects that help scholars a
 Are you a researcher or scholar in any field who uses software to do your work?
 Are you an open source tool builder looking to connect with new communities? 
 
-** We are seeking contributions from people in a wide variety of fields - if you are new to GitHub, we will show you how to suggest a project **
+We are seeking contributions from people in a wide variety of fields - if you are new to GitHub, we will show you how to suggest a project
 
 Eligible projects
   1. Are *open source*
@@ -19,7 +19,12 @@ Eligible projects
   
 If you're ready to go: To suggest a project, please [create an issue](https://github.com/os4os/Awesome-OS4OS/issues) or [edit here](https://github.com/os4os/Awesome-OS4OS/blob/master/Awesome-OS4OS.md) and send a pull request!
 
-If you want to know more: Below, we will define *open source*, and show *code of conduct* examples. 
+If you want to know more: Below, we will show you how to open an issue, define some terms. 
+
+### Issues: GitHub has them and so can you
+Although GitHub calls them issues, we'd like you to think of them as conversation starters. They're our way of communicating about what we can change and make better on a project. You might make an issue to suggest a new lisiting on the Awesome OS4OS list, to ask a question about the list, or a myriad of other questions/suggestions/thoughts. This is an informal way of communicating, so don't feel like your idea or question needs to be perfectly asked or completely researched before you make the issue. Importantly, the people who will respond to the issues are all really nice and interested in your ideas!
+
+GitHub has a nice set of help pages if you're looking for more information about how to make an [issues](https://help.github.com/articles/creating-an-issue/).
 
 
 ### Definitions:
