@@ -1,7 +1,8 @@
-# Welcome to the *Awesome Open Source for Open Scholarship (OS4OS)* list!
+# Welcome to the Awesome OS4OS list!
+:sparkles: This is a directory of Awesome Open Source projects that facilitate Open Scholarship.:sparkles: 
 
+Any open source projects that help researchers and scholars around the world conduct their research, manage their data, and accelerate their work can be added to the list. This includes projects and tools built for research (and by researchers) in all disciplines. Please contribute!
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-This is list of open source projects in open scholarship, encompassing projects and tools built for research (and by researchers) in all disciplines. Please contribute!
 
 ## Contributing Guidelines (TL;DR) 😎
 
