@@ -6,7 +6,8 @@
 
 Our goal is to create a useful list of open source projects that help scholars and researchers of all kinds do their work. These project can be software, training sessions focused on building skills, project management workshops, repositories, and more. 
 
- 👩🏿‍🎤 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👨🏼‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👨🏻‍💻 👩🏽‍💼 👨🏾‍💻 👨🏽‍🎤
+ 👩🏿‍🎤 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👨🏼‍💻 👩🏽‍🚀 Welcome Contributors! 👩🏻‍🌾 👩🏼‍🔬 👨🏻‍💻 👩🏽‍💼 👨🏾‍💻 👨🏽‍🎤
+ 
 Are you a researcher or scholar in any field who uses software to do your work?
 Are you an open source tool builder looking to connect with new communities? 
 
