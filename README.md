@@ -3,12 +3,12 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This is list of open source projects in open scholarship, encompassing projects and tools built for research (and by researchers) in all disciplines. Please contribute!
 
-## Contributing Guidelines TL;DR 😎
+## Contributing Guidelines (TL;DR) 😎
 
 Eligible projects
-  1. Are open source
-  2. Have a code of conduct
-  3. Are things you use!
+  1. Are *open source*
+  2. Have a *code of conduct*
+  3. Are things *you use*!
   
 To suggest a project, please [create an issue](https://github.com/os4os/Awesome-OS4OS/issues) or [edit here](https://github.com/os4os/Awesome-OS4OS/blob/master/Awesome-OS4OS.md) and send a pull request!
  
